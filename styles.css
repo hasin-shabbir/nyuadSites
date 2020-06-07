@@ -80,7 +80,7 @@ body{
 
 .portfolio-item-wrapper{
   position: relative;
-  background-color: #57086a;
+  background-color: #57068a;
   border: 1px solid black;
 }
 
@@ -149,7 +149,6 @@ body{
 }
 .image-text-wrapper .subtitle{
   position: absolute;
-  top: 150;
   font-family: "Lato",sans-serif;
   transition: 1s;
   font-weight: bolder;
